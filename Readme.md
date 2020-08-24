@@ -10,10 +10,16 @@ Date of birth : 1997 November 26
 
 Gender : Male
 
-**Enter ID Card Number : 995018907V
-Date of birth : 1999 January 01
-Gender : Female**
 
-**Enter ID Card Number : 995018907
+Enter ID Card Number : 995018907V
+
+Date of birth : 1999 January 01
+
+Gender : Female
+
+
+Enter ID Card Number : 995018907
+
 Enter a valid ID number.
-Ex :- 970000000V or 199700000000**
+
+Ex :- 970000000V or 199700000000
