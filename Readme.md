@@ -4,14 +4,14 @@
 
 ### Output of the program
 
-** Enter ID Card Number : 199733189079
+**Enter ID Card Number : 199733189079
 Date of birth : 1997 November 26
-Gender : Male **
+Gender : Male**
 
-** Enter ID Card Number : 995018907V
+**Enter ID Card Number : 995018907V
 Date of birth : 1999 January 01
-Gender : Female **
+Gender : Female**
 
-** Enter ID Card Number : 995018907
+**Enter ID Card Number : 995018907
 Enter a valid ID number.
-Ex :- 970000000V or 199700000000 **
+Ex :- 970000000V or 199700000000**
