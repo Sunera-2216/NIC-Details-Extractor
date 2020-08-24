@@ -4,7 +4,7 @@
 
 ### Output of the program
 
-Enter ID Card Number : 199733189079
+Enter ID Card Number : 199733108979
 
 Date of birth : 1997 November 26
 
